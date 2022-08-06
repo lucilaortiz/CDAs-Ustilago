@@ -1,5 +1,5 @@
 # CDAs-Ustilago
-"Cell wall Chitosan is necessary for full virulence in the  biotrophic Basidiomycota Ustilago maydis" Angélica Mariana Robledo-Briones, José Alejandro Sánchez-Arreguin, M. Lucila Ortiz-Castellanos, Claudia Geraldine León-Ramírez, David Martinez-Cano, Domingo Martínez-Soto and José Ruiz-Herrera
+"Cell wall Chitosan is necessary for full virulence in the  biotrophic Basidiomycota Ustilago maydis" Angélica Mariana Robledo-Briones, José Alejandro Sánchez-Arreguin, M. Lucila Ortiz-Castellanos, Claudia Geraldine León-Ramírez, Domingo Martínez-Soto and José Ruiz-Herrera
 
 The following files are available:
 * 125_sequences_used_for_CDAs_Tree.txt: Different sequences of CDAs are identified of diferent groups of Basidiomycota (Agaricomycotina, Pucciniomycotina, Ustilaginomycotina).
