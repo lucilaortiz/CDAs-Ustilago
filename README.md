@@ -1,5 +1,5 @@
 # CDAs-Ustilago
-"Chitosan Is Necessary for the Structure of the Cell Wall, and Full Virulence of Ustilago maydis" Angélica Mariana Robledo-Briones, José Alejandro Sánchez-Arreguin, M. Lucila Ortiz-Castellanos, Claudia Geraldine León-Ramírez, Domingo Martínez-Soto and José Ruiz-Herrera
+"Chitosan Is Necessary for the Structure of the Cell Wall, and Full Virulence of Ustilago maydis" José Alejandro Sánchez-Arreguin, M. Lucila Ortiz-Castellanos, Angélica Mariana Robledo-Briones, Claudia Geraldine León-Ramírez, Domingo Martínez-Soto and José Ruiz-Herrera
 
 The following files are available:
 * sequences_125_used_for_CDAsBasidios_Tree.txt: Different sequences of CDAs are identified of diferent groups of Basidiomycota (Agaricomycotina, Pucciniomycotina, Ustilaginomycotina).
